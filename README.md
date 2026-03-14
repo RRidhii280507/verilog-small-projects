@@ -1,1 +1,1 @@
-# verilog-small-projects
+# verilog implementation
